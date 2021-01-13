@@ -1,0 +1,51 @@
+body{
+	background-image: url(images/bos.jpg);
+	background-size: 100%;
+}
+
+h1{
+	text-align: center;
+	color: red;
+}
+
+#inventoryItem{
+	margin-left: 1270px;
+	margin-bottom: 100px;
+}
+
+
+#description{
+	text-align: center;
+	background-color: lightblue;
+	background: rgba(255,255,255,0.5);
+	width: 300px;
+	margin-left: 38%;
+	font-size: 20px;
+}
+
+#buttonEen{
+	background-color: lightgreen;
+	height: 50px;
+	width: 100px;
+	margin-left: 600px;
+	margin-top: 400px;
+}
+
+#buttonTwee{
+	background-color: lightgreen;
+	height: 50px;
+	width: 100px;
+	margin-left: 45px;
+	margin-top: 300px;
+}
+
+
+#buttonDrie{
+	background-color: lightgreen;
+	height: 50px;
+	width: 100px;
+	margin-left: 850px;
+	margin-top: 300px;
+
+}
+
